@@ -1,0 +1,8 @@
+# Core
+pandas
+numpy
+scikit-learn
+matplotlib
+statsmodels
+joblib
+streamlit
